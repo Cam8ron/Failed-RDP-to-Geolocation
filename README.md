@@ -9,7 +9,7 @@ The script is utilized by showcasing the setup of Azure Sentinel, a Security Inf
 </b>
 <br />
 <br />
-The script is featured in a demo where I establish an Azure Sentinel (SIEM) and establish a live virtual machine acting as a honeypot. In this demo, we can observe active RDP brute force attacks coming from different regions worldwide. To chart the geolocation data of the attackers on an Azure Sentinel Map, I will use a tailored PowerShell script.
+The script is featured in a demo where I establish Azure Sentinel (SIEM) and a live virtual machine acting as a honeypot. In this demo, we can observe active RDP brute force attacks coming from different regions worldwide. To chart the geolocation data of the attackers on an Azure Sentinel Map, I will use a tailored PowerShell script.
 <br />
 <br />
 
